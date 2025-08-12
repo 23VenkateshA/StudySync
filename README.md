@@ -42,7 +42,8 @@ College students often struggle to coordinate group study sessions because sched
 ---
 
 ## 🎨 Figma Design
-*Include screenshots of your Figma wireframes here.*
+![StudySync Wireframes](StudySync.png)
+
 
 ---
 
@@ -61,11 +62,6 @@ College students often struggle to coordinate group study sessions because sched
 
 ---
 
-## 🔗 Links
-- [View in Figma](YOUR_FIGMA_LINK)
-- [Demo Video](YOUR_DEMO_LINK)
-
----
 
 ## 📂 Project Structure (example)
 ```
