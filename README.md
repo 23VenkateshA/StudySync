@@ -47,11 +47,8 @@ Below are low-fidelity wireframes for StudySync’s four core screens:
 
 ![StudySync Wireframes](StudySync.png)
 
-🔗 [View Interactive Prototype in Figma](https://www.figma.com/proto/AwKqTQNCGnS391kGx7UG4S/StudySync?node-id=2-8&p=f&t=cGxFS19pTtZvfCfC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+🔗 [View Interactive Prototype in Figma](https://www.figma.com/proto/AwKqTQNCGnS391kGx7UG4S/StudySync?node-id=2-6&p=f&t=cGxFS19pTtZvfCfC-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-| Home | Group Page | Calendar | Onboarding |
-|------|------------|----------|------------|
-| ![](wireframes/home.png) | ![](wireframes/group-page.png) | ![](wireframes/calendar-view.png) | ![](wireframes/onboarding.png) |
 
 ---
 
